@@ -286,9 +286,9 @@ def dump(token,nama):
 	global password
 	os.system("clear")
 	print("""
-  ____ ____ ____ ___    ____ ____ ____ ____ _  _ 
-|___ |__| [__   |     |    |__/ |__| |    |_/  
-|    |  | ___]  |     |___ |  \ |  | |___ | \_ 
+  \33[0;36m____ ____ \33[0;36m____ \33[0;36m___    
+ \33[0;36m |___ |__| \33[0;36m[__  \33[0;36m |     
+  \33[0;36m|    |  | \33[0;36m___] \33[0;36m |    
                                                
         """)
 	print(f"[{biruM}!{putih}] NYALAKAN => MATIKAN MODE PESAWAT [{biruM}!{putih}]")
